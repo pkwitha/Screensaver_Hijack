@@ -5,6 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        MessageBox.Show("test!");
+        MessageBox.Show("infected!");
     }
 }
